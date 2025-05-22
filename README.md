@@ -1,6 +1,6 @@
 # Web Development Interactive Challenges
 
-[![Web Development Interactive Challenges](https://cover-creator.appbot.io/web-development-interactive-challenges.png)](https://labex.io/courses/web-development-interactive-challenges)
+[![Web Development Interactive Challenges](https://cover-creator.labex.io/web-development-interactive-challenges.png)](https://labex.io/courses/web-development-interactive-challenges)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/web-development-interactive-challenges)
 
@@ -17,7 +17,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -27,8 +27,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                 | Difficulty   | Practice                                                                                                                                 |
-|---------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Difficulty   | Practice                                                                                                                                 |
+|---------|-------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 🎯 One Plus One Equals?                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-one-plus-one-equals-270922'>Start Challenge</a>                                |
 |     002 | 🎯 How Many Digits Can You See?                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-how-many-digits-can-you-see-215201'>Start Challenge</a>                        |
 |     003 | 🎯 Random Number Generator                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-random-number-generator-295722'>Start Challenge</a>                            |
@@ -38,8 +38,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     007 | 🎯 Generate an Array                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-generate-an-array-153831'>Start Challenge</a>                                  |
 |     008 | 🎯 Implement Array Deduplication in JavaScript        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-array-deduplication-in-javascript-143877'>Start Challenge</a>        |
 |     009 | 🎯 Rearrange Array Zeroes In-Place                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-rearrange-array-zeroes-in-place-189430'>Start Challenge</a>                    |
-|     010 | 🎯 Flatten an Array                                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-flatten-an-array-153827'>Start Challenge</a>                                   |
-|     011 | 🎯 Three-Line Love Letter                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/html-three-line-love-letter-298234'>Start Challenge</a>                                   |
+|     010 | 🎯 Flatten an Array                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-flatten-an-array-153827'>Start Challenge</a>                                   |
+|     011 | 🎯 Three-Line Love Letter                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/css-three-line-love-letter-298234'>Start Challenge</a>                                    |
 |     012 | 🎯 Palindrome String Verification in JavaScript       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-palindrome-string-verification-in-javascript-290153'>Start Challenge</a>       |
 |     013 | 🎯 Split Array by Specified Length                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-split-array-by-specified-length-214304'>Start Challenge</a>                    |
 |     014 | 🎯 Handle Sensitive Words                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-handle-sensitive-words-296369'>Start Challenge</a>                             |
@@ -55,37 +55,37 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     024 | 🎯 Simple Calculator with Encapsulated Functions      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-simple-calculator-with-encapsulated-functions-288814'>Start Challenge</a>      |
 |     025 | 🎯 Personal Tax Calculator Functions                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-personal-tax-calculator-functions-290172'>Start Challenge</a>                  |
 |     026 | 🎯 Optimize Web Interactions with JavaScript Debounce | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-optimize-web-interactions-with-javascript-debounce-267703'>Start Challenge</a> |
-|     027 | 🎯 Implement the apply function                       | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-the-apply-function-154572'>Start Challenge</a>                       |
+|     027 | 🎯 Implement the apply function                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-the-apply-function-154572'>Start Challenge</a>                       |
 |     028 | 🎯 Implement an Increment Function                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-an-increment-function-153921'>Start Challenge</a>                    |
-|     029 | 🎯 Implement the call function                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-the-call-function-154569'>Start Challenge</a>                        |
+|     029 | 🎯 Implement the call function                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-the-call-function-154569'>Start Challenge</a>                        |
 |     030 | 🎯 Implementation of setInterval Using setTimeout     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implementation-of-setinterval-using-settimeout-154567'>Start Challenge</a>     |
-|     031 | 🎯 Implement Array Reduce in JavaScript               | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-array-reduce-in-javascript-153926'>Start Challenge</a>               |
+|     031 | 🎯 Implement Array Reduce in JavaScript               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-array-reduce-in-javascript-153926'>Start Challenge</a>               |
 |     032 | 🎯 JSON Generator Tool Development                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-json-generator-tool-development-295946'>Start Challenge</a>                    |
 |     033 | 🎯 Check if an Object Is Empty                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-check-if-an-object-is-empty-179700'>Start Challenge</a>                        |
 |     034 | 🎯 Parse URL into an Object                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-parse-url-into-an-object-189314'>Start Challenge</a>                           |
 |     035 | 🎯 Checking If Two Objects are Equal                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-checking-if-two-objects-are-equal-179702'>Start Challenge</a>                  |
-|     036 | 🎯 Implement Deep Cloning                             | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-deep-cloning-153922'>Start Challenge</a>                             |
+|     036 | 🎯 Implement Deep Cloning                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-deep-cloning-153922'>Start Challenge</a>                             |
 |     037 | 🎯 Implement Custom Object.is Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-custom-object-is-method-153927'>Start Challenge</a>                  |
 |     038 | 🎯 The Page Has Changed                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-the-page-has-changed-290831'>Start Challenge</a>                               |
-|     039 | 🎯 Depth First Traversal of DOM Tree                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/html-depth-first-traversal-of-dom-tree-148859'>Start Challenge</a>                        |
-|     040 | 🎯 Breadth-First Traversal of DOM Tree                | ★★☆          | <a target='_blank' href='https://labex.io/labs/html-breadth-first-traversal-of-dom-tree-148580'>Start Challenge</a>                      |
+|     039 | 🎯 Depth First Traversal of DOM Tree                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-depth-first-traversal-of-dom-tree-148859'>Start Challenge</a>                  |
+|     040 | 🎯 Breadth-First Traversal of DOM Tree                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/breadth-first-traversal-of-dom-tree-148580'>Start Challenge</a>                           |
 |     041 | 🎯 Dynamic Tab Switching with JavaScript              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-dynamic-tab-switching-with-javascript-269014'>Start Challenge</a>              |
 |     042 | 🎯 Video Bullet Comments                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-video-bullet-comments-373561'>Start Challenge</a>                              |
 |     043 | 🎯 Fibonacci Number Calculation                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-fibonacci-number-calculation-149240'>Start Challenge</a>                       |
-|     044 | 🎯 Implement Binary Search Algorithm                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-binary-search-algorithm-148561'>Start Challenge</a>                  |
+|     044 | 🎯 Implement Binary Search Algorithm                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-binary-search-algorithm-148561'>Start Challenge</a>                  |
 |     045 | 🎯 Climb Stairs with JavaScript                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-climb-stairs-with-javascript-179996'>Start Challenge</a>                       |
 |     046 | 🎯 Power of Two                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-power-of-two-189289'>Start Challenge</a>                                       |
 |     047 | 🎯 Square Root of x                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-square-root-of-x-189118'>Start Challenge</a>                                   |
 |     048 | 🎯 Implement Stack Using Queues                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-stack-using-queues-154571'>Start Challenge</a>                       |
-|     049 | 🎯 Diameter of Binary Tree                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-diameter-of-binary-tree-148856'>Start Challenge</a>                            |
-|     050 | 🎯 Find kth smallest element in BST                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-find-kth-smallest-element-in-bst-149241'>Start Challenge</a>                   |
-|     051 | 🎯 Balanced Binary Tree                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-balanced-binary-tree-148578'>Start Challenge</a>                               |
-|     052 | 🎯 Flatten Binary Tree to Linked List                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-flatten-binary-tree-to-linked-list-153829'>Start Challenge</a>                 |
-|     053 | 🎯 Complete Binary Tree Node Count                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-complete-binary-tree-node-count-148861'>Start Challenge</a>                    |
-|     054 | 🎯 Average of Levels in Binary Tree                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-average-of-levels-in-binary-tree-148566'>Start Challenge</a>                   |
-|     055 | 🎯 Binary Tree Right Side View                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-binary-tree-right-side-view-148564'>Start Challenge</a>                        |
+|     049 | 🎯 Diameter of Binary Tree                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-diameter-of-binary-tree-148856'>Start Challenge</a>                            |
+|     050 | 🎯 Find kth smallest element in BST                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-find-kth-smallest-element-in-bst-149241'>Start Challenge</a>                   |
+|     051 | 🎯 Balanced Binary Tree                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-balanced-binary-tree-148578'>Start Challenge</a>                               |
+|     052 | 🎯 Flatten Binary Tree to Linked List                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-flatten-binary-tree-to-linked-list-153829'>Start Challenge</a>                 |
+|     053 | 🎯 Complete Binary Tree Node Count                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-complete-binary-tree-node-count-148861'>Start Challenge</a>                    |
+|     054 | 🎯 Average of Levels in Binary Tree                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-average-of-levels-in-binary-tree-148566'>Start Challenge</a>                   |
+|     055 | 🎯 Binary Tree Right Side View                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-binary-tree-right-side-view-148564'>Start Challenge</a>                        |
 |     056 | 🎯 Subtree of Another Tree                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-subtree-of-another-tree-188927'>Start Challenge</a>                            |
-|     057 | 🎯 Binary Tree Paths                                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-binary-tree-paths-148563'>Start Challenge</a>                                  |
+|     057 | 🎯 Binary Tree Paths                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-binary-tree-paths-148563'>Start Challenge</a>                                  |
 |     058 | 🎯 Validate Binary Search Tree                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-validate-binary-search-tree-188852'>Start Challenge</a>                        |
 |     059 | 🎯 Implement Root-to-Leaf Path Sum in JavaScript      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-root-to-leaf-path-sum-in-javascript-189310'>Start Challenge</a>      |
 |     060 | 🎯 Sum of Left Leaves                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-sum-of-left-leaves-188926'>Start Challenge</a>                                 |
@@ -93,14 +93,14 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     062 | 🎯 Symmetric Binary Tree                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-symmetric-binary-tree-188916'>Start Challenge</a>                              |
 |     063 | 🎯 Binary Tree Equality Check                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-binary-tree-equality-check-189130'>Start Challenge</a>                         |
 |     064 | 🎯 Merge Binary Trees                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-merge-binary-trees-189539'>Start Challenge</a>                                 |
-|     065 | 🎯 Maximize Robbery Without Triggering Alarm          | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-maximize-robbery-without-triggering-alarm-153832'>Start Challenge</a>          |
-|     066 | 🎯 House Robber II                                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-house-robber-ii-153833'>Start Challenge</a>                                    |
-|     067 | 🎯 House Robber III                                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-house-robber-iii-153836'>Start Challenge</a>                                   |
+|     065 | 🎯 Maximize Robbery Without Triggering Alarm          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-maximize-robbery-without-triggering-alarm-153832'>Start Challenge</a>          |
+|     066 | 🎯 House Robber II                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-house-robber-ii-153833'>Start Challenge</a>                                    |
+|     067 | 🎯 House Robber III                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-house-robber-iii-153836'>Start Challenge</a>                                   |
 |     068 | 🎯 Minimum Coin Change Problem Solver                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-minimum-coin-change-problem-solver-179995'>Start Challenge</a>                 |
 |     069 | 🎯 Coin Change II                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-coin-change-ii-179994'>Start Challenge</a>                                     |
 |     070 | 🎯 Compute Distinct Paths in Grid                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-compute-distinct-paths-in-grid-188856'>Start Challenge</a>                     |
 |     071 | 🎯 Unique Paths II                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-unique-paths-ii-188857'>Start Challenge</a>                                    |
-|     072 | 🎯 Subsequence Counting in Python                     | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-subsequence-counting-in-python-148855'>Start Challenge</a>                     |
+|     072 | 🎯 Subsequence Counting in Python                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-subsequence-counting-in-python-148855'>Start Challenge</a>                     |
 |     073 | 🎯 Minimum Delete Operations of Two Strings           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-minimum-delete-operations-of-two-strings-189538'>Start Challenge</a>           |
 |     074 | 🎯 Optimal Stock Buying and Selling                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-optimal-stock-buying-and-selling-189428'>Start Challenge</a>                   |
 |     075 | 🎯 Optimal Stock Trading Timing                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-optimal-stock-trading-timing-189426'>Start Challenge</a>                       |
@@ -117,13 +117,13 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     086 | 🎯 Finding the Werewolf                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-finding-the-werewolf-217152'>Start Challenge</a>                               |
 |     087 | 🎯 Secret That Cannot Be Told                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-secret-that-cannot-be-told-215205'>Start Challenge</a>                         |
 |     088 | 🎯 Slot Machine Application Completion                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-slot-machine-application-completion-298227'>Start Challenge</a>                |
-|     089 | 🎯 Alien Message Translator Program                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/html-alien-message-translator-program-298213'>Start Challenge</a>                         |
+|     089 | 🎯 Alien Message Translator Program                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-alien-message-translator-program-298213'>Start Challenge</a>                   |
 |     090 | 🎯 Collecting Bamboo Slip Fragments                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-collecting-bamboo-slip-fragments-298815'>Start Challenge</a>                   |
 |     091 | 🎯 Building Tall Buildings on Flat Ground             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-building-tall-buildings-on-flat-ground-288781'>Start Challenge</a>             |
 |     092 | 🎯 Division and Ranking                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-division-and-ranking-288793'>Start Challenge</a>                               |
 |     093 | 🎯 Service Years Statistics                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-service-years-statistics-298225'>Start Challenge</a>                           |
 |     094 | 🎯 Annual Star Project                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-annual-star-project-298194'>Start Challenge</a>                                |
-|     095 | 🎯 Universal Synthesis Workbench                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/html-universal-synthesis-workbench-298235'>Start Challenge</a>                            |
+|     095 | 🎯 Universal Synthesis Workbench                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-universal-synthesis-workbench-298235'>Start Challenge</a>                      |
 |     096 | 🎯 Icelandic Patronymic Name Checker                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-icelandic-patronymic-name-checker-298211'>Start Challenge</a>                  |
 |     097 | 🎯 Little Rabbit Climbing Stairs                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-little-rabbit-climbing-stairs-209737'>Start Challenge</a>                      |
 |     098 | 🎯 Qian Kun Mental Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-qian-kun-mental-method-266728'>Start Challenge</a>                             |
@@ -141,18 +141,18 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     110 | 🎯 Simplify Unix-Style File Paths                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-simplify-unix-style-file-paths-189126'>Start Challenge</a>                     |
 |     111 | 🎯 Template String Parsing Implementation             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-template-string-parsing-implementation-188886'>Start Challenge</a>             |
 |     112 | 🎯 Fitness Survey Form with HTML, CSS, JavaScript     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-fitness-survey-form-with-html-css-javascript-298207'>Start Challenge</a>       |
-|     113 | 🎯 Real-Time Friend Circle Publishing                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/html-real-time-friend-circle-publishing-298209'>Start Challenge</a>                       |
+|     113 | 🎯 Real-Time Friend Circle Publishing                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-real-time-friend-circle-publishing-298209'>Start Challenge</a>                 |
 |     114 | 🎯 Word Occurrences in Article                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-word-occurrences-in-article-188197'>Start Challenge</a>                        |
-|     115 | 🎯 Personalized Recommendation System with Node.js    | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-personalized-recommendation-system-with-node-js-298220'>Start Challenge</a>    |
+|     115 | 🎯 Personalized Recommendation System with Node.js    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-personalized-recommendation-system-with-node-js-298220'>Start Challenge</a>    |
 |     116 | 🎯 Little Rabbit Finds Carrots                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-little-rabbit-finds-carrots-270213'>Start Challenge</a>                        |
 |     117 | 🎯 Mall Management System                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-mall-management-system-268366'>Start Challenge</a>                             |
 |     118 | 🎯 Image Watermark Generation                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-image-watermark-generation-298212'>Start Challenge</a>                         |
-|     119 | 🎯 Super Powered Heroes League                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/html-super-powered-heroes-league-298230'>Start Challenge</a>                              |
-|     120 | 🎯 Course Scheduling Wizard                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/html-course-scheduling-wizard-298201'>Start Challenge</a>                                 |
-|     121 | 🎯 This Is a Browser                                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-this-is-a-browser-298233'>Start Challenge</a>                                  |
-|     122 | 🎯 Implement the New Operator                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-the-new-operator-154568'>Start Challenge</a>                         |
+|     119 | 🎯 Super Powered Heroes League                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-super-powered-heroes-league-298230'>Start Challenge</a>                        |
+|     120 | 🎯 Course Scheduling Wizard                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-course-scheduling-wizard-298201'>Start Challenge</a>                           |
+|     121 | 🎯 This Is a Browser                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-this-is-a-browser-298233'>Start Challenge</a>                                  |
+|     122 | 🎯 Implement the New Operator                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-implement-the-new-operator-154568'>Start Challenge</a>                         |
 |     123 | 🎯 Locate Unique Integer in Array                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-locate-unique-integer-in-array-189120'>Start Challenge</a>                     |
-|     124 | 🎯 Evaluate Reverse Polish Notation                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/javascript-evaluate-reverse-polish-notation-149238'>Start Challenge</a>                   |
+|     124 | 🎯 Evaluate Reverse Polish Notation                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-evaluate-reverse-polish-notation-149238'>Start Challenge</a>                   |
 |     125 | 🎯 Thief Retires Placeholder                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-thief-retires-placeholder-270755'>Start Challenge</a>                          |
 |     126 | 🎯 Partition Palindrome Substrings                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-partition-palindrome-substrings-189312'>Start Challenge</a>                    |
 |     127 | 🎯 Distribute Cookies to Maximize Satisfaction        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/javascript-distribute-cookies-to-maximize-satisfaction-185206'>Start Challenge</a>        |
